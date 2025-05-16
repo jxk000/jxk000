@@ -2,7 +2,7 @@
 > Hello! I'm Kacper, and I'd like to introduce myself a bit.
 >
 > * 🇵🇱 Poland
-> * 👨‍💻 I'm 20 years old.
+> * 👨‍💻 I'm 22 years old.
 > * ⚽ I'm interested in sports, especially soccer.
 
 ![Static Badge](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&logoColor=white)
